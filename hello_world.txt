@@ -1,1 +1,1 @@
-Hola Amigitos Soy yo, El "Gato", tratando de convertirme en un desarrollador FullStack
+Hola Amigitos Soy yo, El "Gato", tratando de convertirme en un desarrollador FullStack (este texto es solo para probar el cambio de editor de comentarios que paso de vim a vscode)
